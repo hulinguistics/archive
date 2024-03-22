@@ -492,15 +492,7 @@ sobaka はイラン系言語からの借用だと言われています.
 特に語彙の面でポーランド語の影響が顕著です.
 恣意的ではありますが, 以下にいくつか基本的な語彙を比較してみます.
 
-| ポーランド語 | ウクライナ語 | ロシア語 | 意味 |
-| :-- | :-- | :-- | :-- |
-| czy | чи (čy) | ли (li) | ~か? |
-| mieszkać | мешкати (meškaty) | жить (žitʹ) | 住んでいる |
-| kochać | кохати (koxaty) | любить (ljubit') | 愛している |
-| lubić | любити (ljubyty) |^| 好きである |
-| kawa | кава (kava) | кофе (kofe) | コーヒー |
-| żart | жарт (žart) | шутка (šutka) | 冗談 |
-| parasolka | парасолька (parasol'ka) | зонтик (zontik) | 傘 |
+<table><thead><tr><th style="text-align:left;">ポーランド語</th><th style="text-align:left;">ウクライナ語</th><th style="text-align:left;">ロシア語</th><th style="text-align:left;">意味</th></tr></thead><tbody><tr><td style="text-align:left;">czy</td><td style="text-align:left;">чи (čy)</td><td style="text-align:left;">ли (li)</td><td style="text-align:left;">~か?</td></tr><tr><td style="text-align:left;">mieszkać</td><td style="text-align:left;">мешкати (meškaty)</td><td style="text-align:left;">жить (žitʹ)</td><td style="text-align:left;">住んでいる</td></tr><tr><td style="text-align:left;">kochać</td><td style="text-align:left;">кохати (koxaty)</td><td style="text-align:left;" rowspan="2">любить (ljubit')</td><td style="text-align:left;">愛している</td></tr><tr><td style="text-align:left;">lubić</td><td style="text-align:left;">любити (ljubyty)</td><td style="text-align:left;">好きである</td></tr><tr><td style="text-align:left;">kawa</td><td style="text-align:left;">кава (kava)</td><td style="text-align:left;">кофе (kofe)</td><td style="text-align:left;">コーヒー</td></tr><tr><td style="text-align:left;">żart</td><td style="text-align:left;">жарт (žart)</td><td style="text-align:left;">шутка (šutka)</td><td style="text-align:left;">冗談</td></tr><tr><td style="text-align:left;">parasolka</td><td style="text-align:left;">парасолька (parasol'ka)</td><td style="text-align:left;">зонтик (zontik)</td><td style="text-align:left;">傘</td></tr></tbody></table>
 
 また, 文法の面でもポーランド語との共通点が読み取れます.
 例えば男性名詞の単数与格の語尾は, ロシア語では-u ですが,
