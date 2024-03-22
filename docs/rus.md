@@ -309,16 +309,7 @@ $$
 
 ## 音素
 
-| |>|両唇|>|歯茎|そ⁠り⁠舌|硬⁠口⁠蓋|>|軟口蓋|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| |硬|軟|硬|軟|硬|軟|硬|軟|
-|**破裂音**|p b|pʲ bʲ|t d|tʲ dʲ| | |k g|kʲ gʲ|
-|**破擦音**| | |t͡s| | |t͡ɕ (d͡ʑ)| | |
-|**摩擦音**|f v|fʲ vʲ|s z|sʲ zʲ|ʂ ʐ|ɕː (ʑː)|x (ɣ)|xʲ (ɣʲ)|
-|**鼻音**|m|mʲ|n|nʲ| | | | |
-|**ふ⁠る⁠え⁠音**| | |r|rʲ| | | | |
-|**側⁠面接⁠近⁠音**| | |ɫ|lʲ| | | | |
-|**接近音**| | | | | |j| | |
+<table><thead><tr><th style="text-align:center;"></th><th style="text-align:center;" colspan="2">両唇</th><th style="text-align:center;" colspan="2">歯茎</th><th style="text-align:center;">そ⁠り⁠舌</th><th style="text-align:center;">硬⁠口⁠蓋</th><th style="text-align:center;" colspan="2">軟口蓋</th></tr></thead><tbody><tr><td style="text-align:center;"></td><td style="text-align:center;">硬</td><td style="text-align:center;">軟</td><td style="text-align:center;">硬</td><td style="text-align:center;">軟</td><td style="text-align:center;">硬</td><td style="text-align:center;">軟</td><td style="text-align:center;">硬</td><td style="text-align:center;">軟</td></tr><tr><td style="text-align:center;"><strong>破裂音</strong></td><td style="text-align:center;">p&nbsp;b</td><td style="text-align:center;">pʲ&nbsp;bʲ</td><td style="text-align:center;">t d</td><td style="text-align:center;">tʲ dʲ</td><td style="text-align:center;"></td><td style="text-align:center;"></td><td style="text-align:center;">k g</td><td style="text-align:center;">kʲ gʲ</td></tr><tr><td style="text-align:center;"><strong>破擦音</strong></td><td style="text-align:center;"></td><td style="text-align:center;"></td><td style="text-align:center;">t͡s</td><td style="text-align:center;"></td><td style="text-align:center;"></td><td style="text-align:center;">t͡ɕ&nbsp;(d͡ʑ)</td><td style="text-align:center;"></td><td style="text-align:center;"></td></tr><tr><td style="text-align:center;"><strong>摩擦音</strong></td><td style="text-align:center;">f v</td><td style="text-align:center;">fʲ vʲ</td><td style="text-align:center;">s&nbsp;z</td><td style="text-align:center;">sʲ&nbsp;zʲ</td><td style="text-align:center;">ʂ ʐ</td><td style="text-align:center;">ɕː (ʑː)</td><td style="text-align:center;">x&nbsp;(ɣ)</td><td style="text-align:center;">xʲ&nbsp;(ɣʲ)</td></tr><tr><td style="text-align:center;"><strong>鼻音</strong></td><td style="text-align:center;">m</td><td style="text-align:center;">mʲ</td><td style="text-align:center;">n</td><td style="text-align:center;">nʲ</td><td style="text-align:center;"></td><td style="text-align:center;"></td><td style="text-align:center;"></td><td style="text-align:center;"></td></tr><tr><td style="text-align:center;"><strong>ふ⁠る⁠え⁠音</strong></td><td style="text-align:center;"></td><td style="text-align:center;"></td><td style="text-align:center;">r</td><td style="text-align:center;">rʲ</td><td style="text-align:center;"></td><td style="text-align:center;"></td><td style="text-align:center;"></td><td style="text-align:center;"></td></tr><tr><td style="text-align:center;"><strong>側⁠面接⁠近⁠音</strong></td><td style="text-align:center;"></td><td style="text-align:center;"></td><td style="text-align:center;">ɫ</td><td style="text-align:center;">lʲ</td><td style="text-align:center;"></td><td style="text-align:center;"></td><td style="text-align:center;"></td><td style="text-align:center;"></td></tr><tr><td style="text-align:center;"><strong>接近音</strong></td><td style="text-align:center;"></td><td style="text-align:center;"></td><td style="text-align:center;"></td><td style="text-align:center;"></td><td style="text-align:center;"></td><td style="text-align:center;">j</td><td style="text-align:center;"></td><td style="text-align:center;"></td></tr></tbody></table>
 
 ロシア語には, 硬い子音と軟らかい子音があります.
 日本語で例えると直音 **カ** の子音が硬子音に相当し,
@@ -456,14 +447,7 @@ $$
 下の表は, ウクライナ語とロシア語における母音字のおおよその対応です.
 (左が硬母音字, 右が軟母音字). 両言語で硬軟が入れ替わっている文字があります.
 
-|>|硬母音字|>|軟母音字|
-| :-: | :-: | :-: | :-: |
-| **ロシア語** | **ウクライナ語** | **ロシア語** | **ウクライナ語** |
-| Аа | Аа | Яя | Яя |
-| Ыы | Ии | Ии | Її, Іі |
-| Уу | Уу | Юю | Юю |
-| Ээ | Ее | Ее | Єє |
-| Оо | Оо | Ёё | (йо) |
+<table><thead><tr><th style="text-align:center;" colspan="2">硬母音字</th><th style="text-align:center;" colspan="2">軟母音字</th></tr></thead><tbody><tr><td style="text-align:center;"><strong>ロシア語</strong></td><td style="text-align:center;"><strong>ウクライナ語</strong></td><td style="text-align:center;"><strong>ロシア語</strong></td><td style="text-align:center;"><strong>ウクライナ語</strong></td></tr><tr><td style="text-align:center;">Аа</td><td style="text-align:center;">Аа</td><td style="text-align:center;">Яя</td><td style="text-align:center;">Яя</td></tr><tr><td style="text-align:center;">Ыы</td><td style="text-align:center;">Ии</td><td style="text-align:center;">Ии</td><td style="text-align:center;">Її, Іі</td></tr><tr><td style="text-align:center;">Уу</td><td style="text-align:center;">Уу</td><td style="text-align:center;">Юю</td><td style="text-align:center;">Юю</td></tr><tr><td style="text-align:center;">Ээ</td><td style="text-align:center;">Ее</td><td style="text-align:center;">Ее</td><td style="text-align:center;">Єє</td></tr><tr><td style="text-align:center;">Оо</td><td style="text-align:center;">Оо</td><td style="text-align:center;">Ёё</td><td style="text-align:center;">(йо)</td></tr></tbody></table>
 
 次に文法について紹介します.
 ロシア語とウクライナ語は同じ東スラヴ語群という言語グループに属しています.
