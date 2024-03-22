@@ -177,13 +177,14 @@ comment: 'true'
 不完了体の「不」は「完了しない」ということではなく「完了体ではない」ということを示していると考えれば良いのかもしれません.
 
 $$
-A_p := \{ x | x \in \text{(motion or process indicated by a perfective verb)} \}
+\begin{aligned}
+A_p &:= \\{ x | x \in \text{(motion or process indicated by a perfective verb)} \\} \\
+A_i &:= \\{ x | x \in \text{(motion or process indicated by a imperfective verb)} \\}
+\end{aligned}
 $$
+
 $$
-A_i := \{ x | x \in \text{(motion or process indicated by a imperfective verb)}\}
-$$
-$$
-A_i = \overline{A_p}
+⇒ A_i = \overline{A_p}
 $$
 
 ## 時制
